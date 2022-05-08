@@ -100,11 +100,11 @@ Accounts for wind effects by extending the system dynamics to include wind distu
 
 <div style="display: flex; flex-direction: row;">
   <p align="center">
-    <img src="https://github.com/Rohit-Gupta2/Autonomy-and-Autopilots/blob/Master/Altitude%20Airspeed%20Autopilot%20System/Figures/VelocityComparation.PNG" alt="Velocity Comparison" width="60%">
+    <img src="https://github.com/Rohit-Gupta2/Autonomy-and-Autopilots/blob/Master/Altitude%20Airspeed%20Autopilot%20System/Figures/VelocityComparison.PNG" alt="VelocityComparison" width="60%">
     <p align="center">Velocity Comparison</p>
   </div>
   <p align="center">
-    <img src="https://github.com/Rohit-Gupta2/Autonomy-and-Autopilots/blob/Master/Altitude%20Airspeed%20Autopilot%20System/Figures/AltitudesComparation.PNG" alt="Altitudes Comparison" width="60%">
+    <img src="https://github.com/Rohit-Gupta2/Autonomy-and-Autopilots/blob/Master/Altitude%20Airspeed%20Autopilot%20System/Figures/AltitudesComparison.PNG" alt="Altitudes Comparison" width="60%">
     <p align="center">Altitudes Comparison</p>
   </div>
 </div>
