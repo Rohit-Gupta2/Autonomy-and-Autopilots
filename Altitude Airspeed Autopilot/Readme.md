@@ -105,7 +105,7 @@ Accounts for wind effects by extending the system dynamics to include wind distu
   </div>
   <p align="center">
     <img src="https://github.com/Rohit-Gupta2/Autonomy-and-Autopilots/blob/Master/Altitude%20Airspeed%20Autopilot/Figures/AltitudesComparison.PNG" alt="Altitudes Comparison" width="60%">
-    <p align="center">Altitudes Comparison</p>
+    <p align="center">Altitude Comparison</p>
   </div>
 </div>
 
